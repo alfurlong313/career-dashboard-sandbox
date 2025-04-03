@@ -16,7 +16,7 @@
     },
     "build": {
       "name": "build",
-      "command": "npm run build",
+      "command": "react-script build",
       "runAtStart": false
     }
   }
