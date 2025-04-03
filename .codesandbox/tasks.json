@@ -16,8 +16,8 @@
     },
     "build": {
       "name": "build",
-      "command": "react-script build",
-      "runAtStart": false
+      "command": "react-scripts build"
+      "runAtStart":false
     }
   }
 }
